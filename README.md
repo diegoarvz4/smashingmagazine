@@ -3,7 +3,7 @@
 ## Brief introduction
 
 The project is about notions of design. To identify the hierarchy between elements using a gray scale heat map.
-http://www.nytimes.com/2014/03/18/science/space/detection-of-waves-in-space-buttresses-landmark-theory-of-big-bang.html?_r=0
+http://smashingmagazine.com/
 
 The purpose was to learn about desig, using it's core concepts: Contrast, Repetition, Alignment, Proximity
 

@@ -19,5 +19,5 @@ Visual hierarchy
 
 # Demo Project View Link
 
-[Development Branch](https://raw.githack.com/diegoarvz4/smashingmagazine/tree/development)
+[Master Branch](https://diegoarvz4.github.io/smashingmagazine)
 
